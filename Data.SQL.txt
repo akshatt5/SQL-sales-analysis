@@ -1,0 +1,45 @@
+INSERT INTO customers VALUES
+(1,'Amit Sharma','Delhi'),
+(2,'Neha Verma','Mumbai'),
+(3,'Rahul Singh','Jaipur'),
+(4,'Pooja Mehta','Ahmedabad'),
+(5,'Karan Patel','Surat'),
+(6,'Sneha Iyer','Chennai'),
+(7,'Rohit Kumar','Patna'),
+(8,'Anjali Gupta','Noida'),
+(9,'Vikas Malhotra','Gurgaon'),
+(10,'Riya Jain','Indore');
+
+INSERT INTO products VALUES
+(101,'Laptop','Electronics',55000),
+(102,'Mobile','Electronics',25000),
+(103,'Headphones','Electronics',3000),
+(104,'Office Chair','Furniture',7000),
+(105,'Desk','Furniture',12000),
+(106,'Water Bottle','Accessories',800),
+(107,'Backpack','Accessories',2500),
+(108,'Shoes','Fashion',4500),
+(109,'T-Shirt','Fashion',1200),
+(110,'Watch','Fashion',9000);
+
+INSERT INTO orders VALUES
+(1001,1,101,1,'2024-01-10'),
+(1002,2,102,2,'2024-01-12'),
+(1003,3,103,3,'2024-01-15'),
+(1004,4,104,1,'2024-02-01'),
+(1005,5,105,1,'2024-02-05'),
+(1006,6,106,5,'2024-02-10'),
+(1007,7,107,2,'2024-02-15'),
+(1008,8,108,1,'2024-03-01'),
+(1009,9,109,4,'2024-03-05'),
+(1010,10,110,1,'2024-03-10'),
+(1011,1,102,1,'2024-03-12'),
+(1012,2,103,2,'2024-03-15'),
+(1013,3,104,1,'2024-04-01'),
+(1014,4,105,1,'2024-04-05'),
+(1015,5,106,3,'2024-04-10'),
+(1016,6,107,2,'2024-04-15'),
+(1017,7,108,1,'2024-05-01'),
+(1018,8,109,5,'2024-05-05'),
+(1019,9,110,1,'2024-05-10'),
+(1020,10,101,1,'2024-05-15');

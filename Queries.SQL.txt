@@ -1,0 +1,3 @@
+- SQL SALES ANALYSIS PROJECT
+-- Author: Akshat Mandhaniya
+-- Description: Sales and customer analysis using SQL
