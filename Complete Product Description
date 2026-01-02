@@ -1,0 +1,42 @@
+ # SQL Sales Analysis Project
+Author: Akshat Mandhaniya
+
+## Project Overview
+This project simulates a retail sales dataset and demonstrates SQL querying skills.  
+It includes tables for *customers, products, and orders, sample data, and **20 SQL queries* covering basic queries, joins, aggregations, subqueries, and window functions.
+
+The goal of this project is to:
+- Practice SQL querying and data manipulation
+- Generate business insights from a small dataset
+- Create a GitHub portfolio-ready project
+
+## How to Use
+
+1. *Create Tables*  
+   Run schema.sql to create the tables in your SQL database.
+
+2. *Insert Data*  
+   Run data.sql to populate tables with sample data.
+
+3. *Run Queries*  
+   Open queries.sql to see 20 queries with descriptions.  
+   Queries cover:
+   - Basic SELECT and filtering
+   - JOINs
+   - Aggregations (SUM, COUNT, AVG)
+   - Subqueries
+   - Ranking and window functions
+---
+## Key Insights From Queries
+- Identify *top customers by spending*  
+- Find *top-selling products and categories*  
+- Analyze *monthly order trends*  
+- Detect *premium products priced above average*  
+- Understand *customer purchasing behavior*
+---
+## Skills Demonstrated
+- SQL table creation and data insertion  
+- Data querying using SELECT, WHERE, JOIN, GROUP BY, HAVING  
+- Use of subqueries and window functions  
+- Ability to analyze datasets for business insights  
+- GitHub project documentation
