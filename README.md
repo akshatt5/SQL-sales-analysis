@@ -20,4 +20,4 @@ This query uses a subquery to identify products priced above the overall average
 This query analyzes order volume by month to understand time-based sales trends.
  🔟 Customer Spending Rank (Window Function)
 This query ranks customers based on total spending using a window function.
-1️
+
